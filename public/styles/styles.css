@@ -1,0 +1,21 @@
+body{
+    background-image: url(../../assets/image.jpeg);
+    
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background: rgb(250, 240, 240);
+}
+
+th, td {
+    padding: 8px 12px;
+    text-align: left;
+    border: 1px solid #410e47;
+}
+
+th {
+    background-color: #db567ea1;
+}
