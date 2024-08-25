@@ -1,13 +1,14 @@
 body{
     background-image: url(../../assets/image.jpeg);
-    
 }
 
+/* TABLA */
 table {
-    width: 100%;
+    width: 70%;
     border-collapse: collapse;
     margin: 20px 0;
     background: rgb(250, 240, 240);
+    margin-left: 15%;
 }
 
 th, td {
@@ -18,4 +19,14 @@ th, td {
 
 th {
     background-color: #db567ea1;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
 }
